@@ -1,0 +1,5 @@
+client,mode,global_acc,global_precision_macro,global_f1_macro,global_loss,exp_acc,exp_loss,unknown_rate_global,private_acc,private_loss,private_to_global_rate
+0,union,0.9742,0.9745,0.9739,0.0852,0.9722,0.0943,,,,
+1,union,0.9588,0.9394,0.9545,0.1269,0.9003,0.3482,,0.8423,0.5937,0.1577
+2,union,0.8534,0.9139,0.8555,0.8917,0.8067,1.0659,,0.2157,3.4234,0.4902
+3,union,0.9443,0.9459,0.9438,0.1496,0.8633,0.4532,,0.688,1.0567,0.296

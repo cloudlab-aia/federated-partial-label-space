@@ -1,0 +1,15 @@
+unknown_rate_global=nan
+NUM_EXPERIMENT_CLASSES=9
+EXPERIMENT_CLASSES=['COVID', 'NORMAL', 'PNEUMONIA', 'CARDIOMEGALIA', 'DERRAME_PLEURAL', 'LUNG_OPACITY', 'MASA', 'NEUMOTORAX', 'TURBERCULOSIS']
+
+--- test_final (paper metrics) ---
+global_acc=0.9547721982041902
+global_precision_macro=0.9404757795479529
+global_f1_macro=0.9486323476093297
+global_loss=0.12005769873937976
+exp_acc=0.907608695652174
+exp_loss=0.2763392332877915
+unknown_rate_global=nan
+private_acc=0.8416326530612245
+private_loss=0.46739269872100986
+private_to_global_rate=0.15836734693877552
