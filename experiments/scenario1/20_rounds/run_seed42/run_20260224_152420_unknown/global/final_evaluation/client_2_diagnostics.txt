@@ -1,0 +1,12 @@
+unknown_rate_global=0.015068493150684932
+NUM_EXPERIMENT_CLASSES=4
+EXPERIMENT_CLASSES=['COVID', 'NORMAL', 'PNEUMONIA', 'UNKNOWN']
+
+--- test_final (paper metrics) ---
+global_acc=0.8698630136986302
+global_precision_macro=0.9128817314521136
+global_f1_macro=0.8690948214973364
+global_loss=0.4433266459262534
+exp_acc=0.8365758754863813
+exp_loss=0.535413458634134
+unknown_rate_global=0.015068493150684932

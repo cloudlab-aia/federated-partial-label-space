@@ -1,0 +1,2 @@
+round,exp_loss,exp_acc,global_loss,global_acc,global_precision_macro,global_f1_macro,unknown_rate_global,private_loss,private_acc,private_to_global_rate
+20,0.6799820792388978,0.8093385214007782,0.4883313314759568,0.8712328767123287,0.9144531930736205,0.8724097331240187,,3.465547329042016,0.0,0.6341463414634146

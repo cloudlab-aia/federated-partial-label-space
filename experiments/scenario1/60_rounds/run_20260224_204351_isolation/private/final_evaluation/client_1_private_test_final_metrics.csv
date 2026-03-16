@@ -1,0 +1,2 @@
+client,mode,private_test_final_loss,private_test_final_acc,n_private_classes
+1,isolation,0.0,1.0,1

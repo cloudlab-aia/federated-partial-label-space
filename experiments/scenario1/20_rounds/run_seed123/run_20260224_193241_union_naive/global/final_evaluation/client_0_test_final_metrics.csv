@@ -1,0 +1,2 @@
+client,mode,exp_loss,exp_acc,global_loss,global_acc,global_precision_macro,global_f1_macro,unknown_rate_global
+0,union_naive,1.6914107775574097,0.4660287081339713,0.9111032047910553,0.7186602870813397,0.7618916396410963,0.7128668146990229,

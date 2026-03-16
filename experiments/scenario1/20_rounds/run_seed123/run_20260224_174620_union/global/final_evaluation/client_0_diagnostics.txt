@@ -1,0 +1,15 @@
+unknown_rate_global=nan
+NUM_EXPERIMENT_CLASSES=5
+EXPERIMENT_CLASSES=['COVID', 'NORMAL', 'PNEUMONIA', 'LUNG_OPACITY', 'TURBERCULOSIS']
+
+--- test_final (paper metrics) ---
+global_acc=0.9626794258373206
+global_precision_macro=0.963686567745453
+global_f1_macro=0.9634794342941624
+global_loss=0.09562800138760982
+exp_acc=0.9569377990430622
+exp_loss=0.12106925748181685
+unknown_rate_global=nan
+private_acc=nan
+private_loss=nan
+private_to_global_rate=nan

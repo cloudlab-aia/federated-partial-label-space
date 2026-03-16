@@ -1,0 +1,12 @@
+unknown_rate_global=nan
+NUM_EXPERIMENT_CLASSES=4
+EXPERIMENT_CLASSES=['LOCAL_0', 'LOCAL_1', 'LOCAL_2', 'LOCAL_3']
+
+--- test_final (paper metrics) ---
+global_acc=0.673972602739726
+global_precision_macro=0.7195121951219513
+global_f1_macro=0.6078702086113515
+global_loss=1.9936151850713442
+exp_acc=0.26459143968871596
+exp_loss=3.7977199486412117
+unknown_rate_global=nan
