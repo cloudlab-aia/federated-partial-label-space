@@ -1,0 +1,29 @@
+name: federated-label-space
+
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+
+  # Core scientific stack
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+
+  # PyTorch stack
+  - pytorch
+  - torchvision
+
+  # Utilities
+  - pip
+
+  # Install with pip when conda packages are less reliable / more current
+  - pip:
+      - flwr
+      - ray
+      - torchxrayvision
